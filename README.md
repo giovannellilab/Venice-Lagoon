@@ -3,8 +3,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/cc-by-nd.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
-[![DOI](https://zenodo.org/badge/1170742181.svg)](https://doi.org/10.5281/zenodo.18837137)
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
+[![DOI](https://zenodo.org/badge/1170742181.svg)](https://doi.org/10.5281/zenodo.18837137)
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
